@@ -15,9 +15,6 @@ An AI-powered Computer Vision system designed to preserve and identify Jordan's 
 ## 📸 Screenshots
 <img width="1620" height="942" alt="Screenshot 2026-01-13 065643" src="https://github.com/user-attachments/assets/6aef5ea2-8c04-476f-acf4-1ef01e1b5d19" />
 
-*(Upload a photo of Petra or Jerash to ![Uploading Screenshot 2026-01-13 065643.png…]()
-see the classification in real-time)*
-
 ---
 
 ## 🏛️ Supported Sites
