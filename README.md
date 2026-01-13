@@ -15,7 +15,7 @@ An AI-powered Computer Vision system designed to preserve and identify Jordan's 
 ## 📸 Screenshots
 <img width="1895" height="885" alt="Screenshot 2026-01-13 071114" src="https://github.com/user-attachments/assets/0e014e3e-8616-4db7-82ee-ede336b51c1f" />
 <img width="1840" height="877" alt="Screenshot 2026-01-13 071529" src="https://github.com/user-attachments/assets/ea91dbb9-a5e6-4d79-951e-72caa566b433" />
-<img width="1902" height="947" alt="Screenshot 2026-01-13 071933" src="https://github.com/user-attachments/assets/c4aefe7f-9fad-453c-8008-9b7a968e7438" />
+<img width="1896" height="949" alt="Screenshot 2026-01-13 072020" src="https://github.com/user-attachments/assets/a730eb44-86cf-47e9-bbda-b92d33a6ba40" />
 
 ---
 
