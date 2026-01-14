@@ -19,7 +19,7 @@ An AI-powered Computer Vision system designed to preserve and identify Jordan's 
 
 ---
 
-## 🏛️ Supported Sites
+##  Supported Sites
 The model has been trained on a custom dataset to identify:
 * **Petra** (The Rose City)
 * **Jerash** (Roman Ruins)
@@ -28,13 +28,13 @@ The model has been trained on a custom dataset to identify:
 * **Umm Qais** (Gadara)
 * **Ajloun Castle**
 
-## 🧠 Technical Details
+##  Technical Details
 * **Model Architecture:** ResNet152 (Transfer Learning from ImageNet)
 * **Training:** Fine-tuned on a custom dataset of ~1,000 images.
 * **Deployment:** Streamlit frontend, hosted on Hugging Face Spaces.
 * **Performance:** Achieved ~99% accuracy on the test set.
 
-## 🚀 How to Run Locally
+##  How to Run Locally
 1. Clone the repository:
    ```bash
    git clone [https://github.com/YOUR_GITHUB_USERNAME/Jordan-Heritage-Classifier.git](https://github.com/YOUR_GITHUB_USERNAME/Jordan-Heritage-Classifier.git)
